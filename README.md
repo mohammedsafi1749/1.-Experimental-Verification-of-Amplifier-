@@ -93,9 +93,8 @@ Inverting amplifier:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1060" height="1412" alt="image" src="https://github.com/user-attachments/assets/d3eab737-e6b8-4f49-9b5e-a9a9e00642c1" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d3eab737-e6b8-4f49-9b5e-a9a9e00642c1" />
 
-![IMG_20260327_091827_1](https://github.com/user-attachments/assets/160fe469-afc1-4c54-bf6b-865a459e4c82)
 
 ---
 ### **Non-Inverting Amplifier**
