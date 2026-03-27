@@ -95,7 +95,7 @@ Inverting amplifier:
 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/d3eab737-e6b8-4f49-9b5e-a9a9e00642c1" />
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/87dcb5f3-95df-44c9-9cf9-1155560a8cfe" />
+![IMG_20260327_092731](https://github.com/user-attachments/assets/8ca61bc9-ad3d-407f-abf3-e0edcf8fef7e)
 
 ---
 ### **Non-Inverting Amplifier**
