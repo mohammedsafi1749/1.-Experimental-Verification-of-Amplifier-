@@ -142,6 +142,7 @@ PROCEDURE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/043949e2-6c97-44d1-bcc9-75fcff12d08e" />
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -198,6 +199,9 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/a9f21222-46ef-4d16-9438-cdbac346c852" />
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/52b71476-f5ab-4443-8511-23ddf4ee7971" />
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -237,6 +241,9 @@ PROCEDURE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/4adfd74c-0454-40a7-b037-22ddf6b6a19c" />
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/64acc5e3-8ff0-475e-b6d5-e36e224bb6cb" />
 
 ---
 ## RESULT
