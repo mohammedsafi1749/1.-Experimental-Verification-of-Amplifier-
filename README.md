@@ -48,9 +48,11 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
+
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
+
 <img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
 
 MODEL GRAPH 
@@ -69,6 +71,7 @@ Rf =10 R1
 Choose R1 = 1kΩ, Rf=10kΩ
 
 PROCEDURE:
+
 Inverting amplifier:
 
 1.	Select R1 as a constant value and choose a value of Rf.
@@ -122,7 +125,9 @@ ACL = 1 + RF/R1
 
 ---
 PROCEDURE:
+
 ### **For  Non-Inverting Amplifier**
+
 1. Select R1  as a constant value and choose a value for Rf .  
 2. Connect the circuit as per the diagram.  
 3. Apply constant amplitude input voltage.  
@@ -153,7 +158,9 @@ If the two input signals are identical, the output is ideally **zero**.
 
 
 A = Vo/{V2 - V1} = -Rf/R1
+
 ## CIRCUIT DIAGRAM
+
 <img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
 
 ## MODEL GRAPH
@@ -178,6 +185,7 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 
 ## PROCEDURE (Differential Amplifier)
+
 1. Select  R1, R2, R3, Rf  such that R1 = R2  and  R3 = Rf .  
 2. Connect the circuit as per the circuit diagram.  
 3. Apply constant inputs Vin1 and  Vin2 .  
